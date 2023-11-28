@@ -108,6 +108,6 @@ RegisterNumber:  23012925
 
 # RESULTS: 
 
-Thus, the UP COUNTER and DOWN COUNTER are designed and the truth tables are verified using quartus software.
+Thus, the 4 bit UP COUNTER and DOWN COUNTER are designed and the truth tables are verified using quartus software.
 
 
